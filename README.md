@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buglower
 - 👀 I’m interested in Computer Scince
-- 🌱 I’m currently learning java spring boot
+- 🌱 I’m currently a java spring boot developer
 - 📫 How to reach me paulo.bolous@istnetworks.com - 01092737276
 
 <!---
